@@ -19,9 +19,6 @@
   <h2>👥 Team Members</h2>
   <ul>
     <li><strong>Abhishek</strong> – Frontend & Backend Developer</li>
-    <li><strong>Navdeep</strong> – Frontend Developer</li>
-    <li><strong>Deepika</strong> – Frontend Developer</li>
-    <li><strong>Sainath</strong> – Backend Developer</li>
   </ul>
 
   <h2>✨ Features</h2>
@@ -129,8 +126,8 @@
 
   <h3>📂 File Locations</h3>
   <ul>
-    <li><strong>application.properties</strong> → <code>D:\SGF_Collaboration\backend\src\main\resources\application.properties</code></li>
-    <li><strong>application-local.properties</strong> → <code>..\SGF_Collaboration\backend\src\main\resources\application-local.properties</code></li>
+    <li><strong>application.properties</strong> → <code>D:\Study Group Finder and Collaboration\backend\src\main\resources\application.properties</code></li>
+    <li><strong>application-local.properties</strong> → <code>..\Study Group Finder and Collaboration\backend\src\main\resources\application-local.properties</code></li>
   </ul>
 
   <div class="note">
