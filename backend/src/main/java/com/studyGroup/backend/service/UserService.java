@@ -25,9 +25,6 @@ public class UserService implements UserDetailsService {
     private ProfileRepository profileRepository;
 
     @Autowired
-    private EmailService emailService;
-
-    @Autowired
     private JWTService jwtService;
 
     @Autowired
@@ -73,7 +70,9 @@ public class UserService implements UserDetailsService {
                 savedUser.getId(),
                 "Welcome to Study Sphere",
                 "Welcome to the study sphere ,enrolled the course and also joined the group",
-                "Updates");
+                "Updates",
+                null,
+                null);
 
         return "200::User Registered Successfully";
     }
