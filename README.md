@@ -16,7 +16,7 @@
   </p>
   <p>This platform enhances academic networking, improves study efficiency, and simplifies group work coordination.</p>
 
-  <h2>👥 Team Members</h2>
+  <h2>👥 Project Developer</h2>
   <ul>
     <li><strong>Abhishek</strong> – Frontend & Backend Developer</li>
   </ul>
