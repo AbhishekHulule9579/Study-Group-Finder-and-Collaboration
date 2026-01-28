@@ -66,6 +66,7 @@ public class UserService implements UserDetailsService {
         profileRepository.save(profile);
 
         // Send Welcome Notification
+        
         notificationService.createNotification(
                 savedUser.getId(),
                 "Welcome to Study Sphere",
