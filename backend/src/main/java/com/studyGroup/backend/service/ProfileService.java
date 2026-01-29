@@ -53,6 +53,7 @@ public class ProfileService {
     /**
      * Helper to deserialize the JSON string of enrolled course IDs into a Java Set.
      */
+    
     private Set<String> getEnrolledCourseIdsAsSet(Profile profile) throws IOException {
         String enrolledCoursesJson = profile.getEnrolledCourseIds();
         if (enrolledCoursesJson == null || enrolledCoursesJson.isEmpty() || enrolledCoursesJson.equals("[]")) {
